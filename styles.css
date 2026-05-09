@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+#container{
+    display:flex;
+    flex-wrap:wrap;
+    width:500px;
+    height:500px;
+}
+.cell {
+    width: 31.25px;
+    height: 31.25px;
+    border: 1px solid white;
+    background-color: black;
+}
+body{
+    background-color:black;
+    color:white;
+}
