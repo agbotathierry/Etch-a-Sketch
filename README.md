@@ -1,5 +1,5 @@
 # Etch-a-Sketch
-# Etch-a-Sketch
+
 
 ## Description
 A browser-based drawing tool built with vanilla JavaScript. 
